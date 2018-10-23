@@ -2,4 +2,5 @@
 Simple Ionic app
 
 `npm i`
+
 `ionic serve`
